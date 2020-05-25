@@ -5,4 +5,4 @@ Lab 2 has 2 parts- one which simulates the functioning of a robotic arm and anot
 
 Lab 3 is an auto regression model to predict COVID case graphs in different countries
 	
-Lab 4 has 2 parts- 
+Lab 4 has 2 parts- Population Dynamics and Principal Component Analysis
